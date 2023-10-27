@@ -1,5 +1,3 @@
-Certainly! Here's a basic `README.md` template for your project:
-
 ```markdown
 # My RESTful API Project
 
@@ -64,8 +62,6 @@ MONGODB_URI=mongodb+srv://tuwabera:91073@Tecy@cluster0.f1p1xun.mongodb.net/?retr
 JWT_SECRET=91073@Tecy
 ```
 
-Replace `mongodb+srv://tuwabera:<password>@cluster0.f1p1xun.mongodb.net/?retryWrites=true&w=majority` with your MongoDB database connection string and `91073@Tecy` with a secret key for JWT token signing.
-
 ## API Endpoints
 
 - User Endpoints:
@@ -103,4 +99,3 @@ You can use this project as a starting point for building your own RESTful API. 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Make sure to customize the README with your project-specific information, such as the repository URL and additional project details.
