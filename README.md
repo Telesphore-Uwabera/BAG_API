@@ -60,11 +60,11 @@ Before you begin, ensure you have met the following requirements:
 Create a `.env` file in your project root and add the following variables:
 
 ```env
-MONGODB_URI=your-mongodb-uri
+MONGODB_URI=mongodb+srv://tuwabera:91073@Tecy@cluster0.f1p1xun.mongodb.net/?retryWrites=true&w=majority
 JWT_SECRET=91073@Tecy
 ```
 
-Replace `your-mongodb-uri` with your MongoDB database connection string and `91073@Tecy` with a secret key for JWT token signing.
+Replace `mongodb+srv://tuwabera:<password>@cluster0.f1p1xun.mongodb.net/?retryWrites=true&w=majority` with your MongoDB database connection string and `91073@Tecy` with a secret key for JWT token signing.
 
 ## API Endpoints
 
