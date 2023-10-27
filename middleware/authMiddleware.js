@@ -1,4 +1,4 @@
-const jwt = require('jsonwebtoken');
+const jwt = require('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIiLCJpc3QiOiIiLCJpYXQiOjE2OTg0MDM1NTcsImV4cCI6MTY5ODQwMzU4NywianRpIjoiand0X25vbmNlIn0.Gk2mfdElpDflYwl71Bscl1W_quKpQB972kt-rG8SM-A');
 const JWT_SECRET = '91073@Tecy';
 const User = require('../models/User');
 
