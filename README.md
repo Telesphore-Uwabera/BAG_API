@@ -38,7 +38,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-api.git
+   git clone https://github.com/Telesphore-Uwabera/BAG_API.git
    ```
 
 2. Install dependencies:
@@ -61,10 +61,10 @@ Create a `.env` file in your project root and add the following variables:
 
 ```env
 MONGODB_URI=your-mongodb-uri
-JWT_SECRET=your-secret-key
+JWT_SECRET=91073@Tecy
 ```
 
-Replace `your-mongodb-uri` with your MongoDB database connection string and `your-secret-key` with a secret key for JWT token signing.
+Replace `your-mongodb-uri` with your MongoDB database connection string and `91073@Tecy` with a secret key for JWT token signing.
 
 ## API Endpoints
 
