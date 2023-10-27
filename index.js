@@ -6,7 +6,7 @@ const simulationRoutes = require('./routes/simulationRoutes');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const MONGODB_URI = 'your-mongodb-uri';
+const MONGODB_URI = 'mongodb+srv://tuwabera:<password>@cluster0.f1p1xun.mongodb.net/?retryWrites=true&w=majority';
 const JWT_SECRET = '91073@Tecy';
 
 mongoose.connect(MONGODB_URI, {
